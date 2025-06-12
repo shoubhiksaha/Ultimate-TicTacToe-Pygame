@@ -26,3 +26,7 @@ Install dependencies:
 
 python main.py
 
+## images used in game 
+![o_modified](https://github.com/user-attachments/assets/76e7659c-5f41-4b85-b17c-4324c84ac199)
+![X_modified](https://github.com/user-attachments/assets/d733cdba-0112-48d3-9d15-ccef85df7d80)
+![modified_cover](https://github.com/user-attachments/assets/21deaf16-de11-46b5-8e5e-985db73cebc5)
